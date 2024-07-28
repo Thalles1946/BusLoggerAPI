@@ -1,0 +1,18 @@
+{
+    "data": {
+        "historic": [
+            {
+                "lineName": "Ipatinga -> Timóteo",
+                "value": 10.50,
+                "time": "28/07/2024"
+            }
+        ],
+        "lines": [
+            {
+                "lineName": "Ipatinga -> Timóteo",
+                "value": 10.50
+            }
+        ],
+        "balance": 0.00
+    }
+}
